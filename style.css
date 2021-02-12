@@ -185,7 +185,7 @@ body {
 .github {
     width: 200px;
     height: 200px;
-    background-image: url(github.png);
+    background-image: url("https://raw.githubusercontent.com/m-i-zulkifli-nurul-ilmi/Simple-Web-CSS-HTML-BoxModel-Float-Position/main/github.png");
     background-repeat: no-repeat;
     display: inline-block;
     text-indent: -9999px;
